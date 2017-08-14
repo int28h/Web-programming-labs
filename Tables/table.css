@@ -1,0 +1,46 @@
+body {
+    width: 350px;
+    margin: 0;
+    padding: 0 10px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+th {
+    background-color: darkcyan;
+    color: white;
+    border-top: solid black 1px;
+    border-bottom: solid black 1px;
+    padding: 10px;
+    width: 250px;
+   }
+    
+td {
+    width: 33%;
+    padding: 10px;
+    border-bottom: solid lightgray 1px;
+}
+
+.blue {
+	background-color: lightblue;   
+}
+
+.yellow {
+	background-color: lightyellow;
+}
+
+.left {
+	text-align: left;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
